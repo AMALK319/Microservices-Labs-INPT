@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55173eea-869a-4551-ab7c-9ef789c2b0ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/beans/CommandeBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/beans/PaiementBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/beans/ProductBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/configuration/FeignExceptionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/exceptions/CustomErrorDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/exceptions/ProductBadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/proxies/MicroserviceCommandeProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/proxies/MicroservicePaiementProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/proxies/MicroserviceProduitsProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/resources/templates/Confirmation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/resources/templates/FicheProduit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientui/src/main/resources/templates/Paiement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clientui/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/ClientuiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/ClientuiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/clientui/src/main/java/com/clientui/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientui/src/main/resources/templates/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/clientui/src/main/resources/templates/Accueil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientui/src/test/java/com/clientui/ClientuiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/clientui/src/test/java/com/clientui/ClientuiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/MproduitsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/MproduitsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/web/exceptions/ProductNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-produits/src/main/java/com/mproduits/web/exceptions/ProductNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-produits/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-produits/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FdmnBDhVAOj6wX5UG3T20LPdmA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/clientui",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "e67f96fed687f7aa8bccef4165ad5f70"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.ClientUiApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="mcommerce" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="mcommerce" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientUiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="clientui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.clientui.ClientUiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientuiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="clientui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.clientui.ClientuiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="McommandesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mcommandes" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mcommandes.McommandesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpaiementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mpaiement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mpaiement.MpaiementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MproduitsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mproduits" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mproduits.MproduitsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55173eea-869a-4551-ab7c-9ef789c2b0ed" name="Changes" comment="" />
+      <created>1664830502699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664830502699</updated>
+      <workItem from="1664830510590" duration="194000" />
+      <workItem from="1664830710999" duration="36000" />
+      <workItem from="1664830827492" duration="1321000" />
+      <workItem from="1664832161150" duration="436000" />
+      <workItem from="1664832621302" duration="4324000" />
+      <workItem from="1664841091912" duration="5961000" />
+      <workItem from="1664873107796" duration="1616000" />
+      <workItem from="1665865218149" duration="13064000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
